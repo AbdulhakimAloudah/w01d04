@@ -1,3 +1,17 @@
-h1 {
-    background-color: blue;
+header{
+    background-color: rgb(239, 246, 255);
+    display: flex;
+}
+ul {
+    
+	width: 20%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+li{
+    display: inline-block;
+}
+.logo{
+    width: 70%;
 }
